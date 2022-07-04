@@ -1,0 +1,10 @@
+"0": {
+		"Title": "Book Title",
+		"Author": "Book Author",
+		"Translator": "Book Translator",
+		"Year": 2022,
+		"Pages": 500,
+		"Owned": false,
+		"Origin": "United States",
+		"Price": 30
+	},
